@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * my_history - show all lists
+ * my_hist - show all lists
  * @adrs:struct parameter
  * Return:0
  */
